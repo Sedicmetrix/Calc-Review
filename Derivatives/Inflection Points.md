@@ -1,0 +1,2 @@
+Points on the graph of $f$ where the concavity changes
+* A point of inflection occurs on the graph of $f$ at $x=a$ if $f(a)$ is defined, $f''(a)=0,$ or $f''(a)$ is undefined, and $f''$ changes sign there. $f''(a)=0$ alone does **not** guarantee an inflection point at $x=a$

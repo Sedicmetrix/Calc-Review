@@ -1,0 +1,1 @@
+The error involved in using estimating the sum of an alternating series is bounded by the absolute value of the $1^{st}$ excluded term.

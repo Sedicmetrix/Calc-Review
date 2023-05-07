@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "610f3604148fdc24",
+    "type": "split",
+    "children": [
+      {
+        "id": "44ac4cd8e43301ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c02d347339d5ba6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e488892b8b3693bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6063af4458f3fc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c320f35d4cee93f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "035fe1298c22d98f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "466f446ae79d3ded",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "fea4a121003ec18a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40aa3855f6077191",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0dbb78305dfc1f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4885b0341c05d2fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8948c72e2b9ae4e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc053a7ab3e4306c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c488a4cc392cc018",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0c02d347339d5ba6",
+  "lastOpenFiles": [
+    "Integrals/Arc Length.md",
+    "Series/Taylor Polynomials.md",
+    "Parametrics.md",
+    "Series/Fundamental Power Series.md",
+    "Series/Alternating Series Bound.md",
+    "Integrals/Volume.md",
+    "DiffEQ/Euler’s Method for approximating a solution to a first-order diffeq.md",
+    "DiffEQ/Logistic Model.md",
+    "DiffEQ/Newton's Law of Cooling.md",
+    "DiffEQ/DiffEQ.md",
+    "Derivatives/L’Hopital’s Rule.md",
+    "Integrals/Speed.md",
+    "Integrals/Trapezoidal Method for Approximating a Definite Integral.md",
+    "Integrals/Partial Fractions.md",
+    "Integrals/P-integrals.md",
+    "Integrals/Net Change Theorem.md",
+    "Integrals/Integration by Parts.md",
+    "Integrals/Improper Integrals.md",
+    "Integrals/Fundamental Theorem of Calculus.md",
+    "Integrals/FTC Part 2.md",
+    "Integrals/Displacement versus Distance Traveled (One-Dim Motion).md",
+    "Integrals/Definition of the Definite Integral.md",
+    "Integrals/Average Value of a Function.md",
+    "Polar.md",
+    "Series",
+    "Series.md",
+    "DiffEQ",
+    "Limits/Continuity at a Point.md",
+    "Integrals",
+    "Derivatives",
+    "Limits"
+  ]
+}

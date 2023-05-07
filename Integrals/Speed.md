@@ -1,0 +1,1 @@
+* In one-dim motion, speed is the absolute value of the velocity: speed= $||\operatorname{v}^{→}||$ 

@@ -1,0 +1,1 @@
+If $f$ is continuous on a closed interval $[a,b],$ then $f$ has both an absolute maximum and absolute minimum on the interval. Remember, extreme values are Y's not X's 

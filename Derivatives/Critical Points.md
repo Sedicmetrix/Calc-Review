@@ -1,0 +1,2 @@
+* Critical Points occur where $f'(x)=0$ or $f'(x)$ is undefined
+* Local/relative extrema occur at critical points but not all critical points correspond to local extrema \[$f(x)=x^3$ has a critical point at $x=0$ but no relative min or max]

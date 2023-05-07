@@ -1,0 +1,2 @@
+A Taylor polynomial of degree $n$ can be used to approximate a function $f$ with $$f(x)≈P_n(x)=a_0+a_1(x-c)+a_2(x-c)^2+...+a_n(x-c)^n=\sum_{k=0}^{n}a_k(x-c)^k$$
+where $a_n=\frac{f^{(n)}(c)}{n!}$. When $c=0$, the series is called Maclaurin polynomial

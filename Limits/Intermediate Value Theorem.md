@@ -1,0 +1,1 @@
+If $f$ is continuous on the closed interval $[a,b],f(a)≠f(b),$ and $k$ is any number between $f(a)$ and $f(b),$ then there is at least one number $x=c$ in $[a,b]$ for which $f(c)=k$
